@@ -12,7 +12,7 @@ A clean and responsive weather app built using HTML, CSS, and JavaScript. It fet
 
 ## 📸 Preview
 
-![Weather App Screenshot](https://github.com/RajatSW/weather_app/blob/04cdf2cf5085b35660719f20efbcac69d465714a/Preview.png) <!-- Replace with actual screenshot path after uploading -->
+![Weather App Screenshot](https://github.com/RajatSW/weather.app/blob/aae4523959b1d7d176b74c1bc1371cd3f37c4ce0/images/Preview.png) <!-- Replace with actual screenshot path after uploading -->
 
 ## 🛠️ Tech Stack
 
